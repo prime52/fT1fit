@@ -13,4 +13,10 @@ The code was tested using the following specs and libraries:
 - scipy==1.1.0
 - scikit-image==0.14.0
 
+Use pip to install the above libraries. For example,
 
+(ft1fit) C:\Users\yckim\Documents\t1map_cpp\gui_code2> pip install pydicom==2.0.0
+
+To run the script and launch the graphical user interface. 
+
+(ft1fit) C:\Users\yckim\Documents\t1map_cpp\gui_code2> python gui_ft1fit.py
