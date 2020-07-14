@@ -20,3 +20,12 @@ Use pip to install the above libraries. For example,
 To run the script and launch the graphical user interface. 
 
 (ft1fit) C:\Users\yckim\Documents\t1map_cpp\gui_code2> python gui_ft1fit.py
+
+[Citation]
+1. YC Kim, KR Kim, KH Choi, MW Kim, YJ Chung, YH Choe, "EVCMR: A tool for the quantitative evaluation and visualization of cardiac MRI data" Computers in Biology and Medicine. 2019:111:Article 103334.
+
+2. YC Kim, KR Kim, HL Lee, YH Choe, "Fast calculation software for modified Look-Locker inversion recovery (MOLLI) T1 mapping" submitted to BMC Medical Imaging. 
+
+
+
+
