@@ -22,9 +22,9 @@ To run the script and launch the graphical user interface.
 (ft1fit) C:\Users\yckim\Documents\t1map_cpp\gui_code2> python gui_ft1fit.py
 
 [Citation]
-1. YC Kim, KR Kim, KH Choi, MW Kim, YJ Chung, YH Choe, "EVCMR: A tool for the quantitative evaluation and visualization of cardiac MRI data" Computers in Biology and Medicine. 2019:111:Article 103334.
+1. YC Kim, KR Kim, KH Choi, MW Kim, YJ Chung, YH Choe, "EVCMR: A tool for the quantitative evaluation and visualization of cardiac MRI data" Computers in Biology and Medicine. 2019:111:Article 103334. https://www.sciencedirect.com/science/article/pii/S0010482519302033
 
-2. YC Kim, KR Kim, HL Lee, YH Choe, "Fast calculation software for modified Look-Locker inversion recovery (MOLLI) T1 mapping", BMC Medical Imaging, under 1st revision. 
+2. YC Kim, KR Kim, HL Lee, YH Choe, "Fast calculation software for modified Look-Locker inversion recovery (MOLLI) T1 mapping", BMC Medical Imaging, 21, Article number: 26 (12 February 2021).  https://bmcmedimaging.biomedcentral.com/articles/10.1186/s12880-021-00558-8
 
 
 
